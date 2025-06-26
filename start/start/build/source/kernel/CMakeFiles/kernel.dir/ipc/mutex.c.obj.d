@@ -1,0 +1,9 @@
+source/kernel/CMakeFiles/kernel.dir/ipc/mutex.c.obj: \
+ F:/Cpp/program_operator_system/source/start/start4/source/kernel/ipc/mutex.c \
+ F:/Cpp/program_operator_system/source/start/start4/source/kernel/include/cpu/irq.h \
+ F:/Cpp/program_operator_system/source/start/start4/source/comm/types.h \
+ F:/Cpp/program_operator_system/source/start/start4/source/kernel/include/ipc/mutex.h \
+ F:/Cpp/program_operator_system/source/start/start4/source/kernel/include/core/task.h \
+ F:/Cpp/program_operator_system/source/start/start4/source/kernel/include/cpu/cpu.h \
+ F:/Cpp/program_operator_system/source/start/start4/source/kernel/include/tools/list.h \
+ F:/Cpp/program_operator_system/source/start/start4/source/kernel/include/fs/file.h

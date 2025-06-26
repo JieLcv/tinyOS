@@ -1,0 +1,217 @@
+[
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/boot",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -m32 -g -g -o CMakeFiles/boot.dir/start.S.obj -c F:/Cpp/program_operator_system/source/start/start4/source/boot/start.S",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/boot/start.S"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/boot",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/boot.dir/boot.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/boot/boot.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/boot/boot.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/loader",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -m32 -g -g -o CMakeFiles/loader.dir/start.S.obj -c F:/Cpp/program_operator_system/source/start/start4/source/loader/start.S",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/loader/start.S"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/loader",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/loader.dir/loader_16.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/loader/loader_16.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/loader/loader_16.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/loader",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/loader.dir/loader_32.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/loader/loader_32.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/loader/loader_32.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -m32 -g -g -o CMakeFiles/kernel.dir/init/start.S.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/init/start.S",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/init/start.S"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/core/memory.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/core/memory.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/core/memory.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/core/syscall.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/core/syscall.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/core/syscall.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/core/task.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/core/task.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/core/task.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/cpu/cpu.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/cpu/cpu.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/cpu/cpu.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/cpu/irq.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/cpu/irq.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/cpu/irq.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/dev/console.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/dev/console.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/dev/console.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/dev/dev.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/dev/dev.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/dev/dev.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/dev/disk.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/dev/disk.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/dev/disk.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/dev/kbd.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/dev/kbd.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/dev/kbd.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/dev/time.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/dev/time.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/dev/time.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/dev/tty.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/dev/tty.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/dev/tty.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/fs/devfs/devfs.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/fs/devfs/devfs.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/fs/devfs/devfs.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/fs/fatfs/fatfs.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/fs/fatfs/fatfs.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/fs/fatfs/fatfs.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/fs/file.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/fs/file.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/fs/file.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/fs/fs.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/fs/fs.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/fs/fs.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/init/first_task.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/init/first_task.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/init/first_task.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -m32 -g -g -o CMakeFiles/kernel.dir/init/first_task_entry.S.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/init/first_task_entry.S",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/init/first_task_entry.S"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/init/init.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/init/init.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/init/init.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/init/lib_syscall.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/init/lib_syscall.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/init/lib_syscall.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/ipc/mutex.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/ipc/mutex.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/ipc/mutex.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/ipc/sem.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/ipc/sem.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/ipc/sem.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/tools/bitmap.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/tools/bitmap.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/tools/bitmap.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/tools/klib.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/tools/klib.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/tools/klib.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/tools/list.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/tools/list.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/tools/list.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/kernel",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/kernel.dir/tools/log.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/kernel/tools/log.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/kernel/tools/log.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/applib",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -m32 -g -g -o CMakeFiles/app.dir/crt0.S.obj -c F:/Cpp/program_operator_system/source/start/start4/source/applib/crt0.S",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/applib/crt0.S"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/applib",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/app.dir/cstart.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/applib/cstart.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/applib/cstart.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/applib",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/app.dir/lib_syscall.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/applib/lib_syscall.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/applib/lib_syscall.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/shell",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -IF:/Cpp/program_operator_system/source/start/start4/source/shell/../applib -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/shell.dir/main.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/shell/main.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/shell/main.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/init",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -IF:/Cpp/program_operator_system/source/start/start4/source/init/../applib -m32 -g -g -o CMakeFiles/init.dir/__/applib/crt0.S.obj -c F:/Cpp/program_operator_system/source/start/start4/source/applib/crt0.S",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/applib/crt0.S"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/init",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -IF:/Cpp/program_operator_system/source/start/start4/source/init/../applib -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/init.dir/__/applib/cstart.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/applib/cstart.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/applib/cstart.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/init",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -IF:/Cpp/program_operator_system/source/start/start4/source/init/../applib -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/init.dir/__/applib/lib_syscall.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/applib/lib_syscall.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/applib/lib_syscall.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/init",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -IF:/Cpp/program_operator_system/source/start/start4/source/init/../applib -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/init.dir/main.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/init/main.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/init/main.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/loop",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -IF:/Cpp/program_operator_system/source/start/start4/source/loop/../applib -m32 -g -g -o CMakeFiles/loop.dir/__/applib/crt0.S.obj -c F:/Cpp/program_operator_system/source/start/start4/source/applib/crt0.S",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/applib/crt0.S"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/loop",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -IF:/Cpp/program_operator_system/source/start/start4/source/loop/../applib -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/loop.dir/__/applib/cstart.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/applib/cstart.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/applib/cstart.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/loop",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -IF:/Cpp/program_operator_system/source/start/start4/source/loop/../applib -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/loop.dir/__/applib/lib_syscall.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/applib/lib_syscall.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/applib/lib_syscall.c"
+},
+{
+  "directory": "F:/Cpp/program_operator_system/source/start/start4/build/source/loop",
+  "command": "C:/x86_64-elf-tools-windows/bin/x86_64-elf-gcc.exe  -IF:/Cpp/program_operator_system/source/start/start4/source -IF:/Cpp/program_operator_system/source/start/start4/source/kernel/include -IF:/Cpp/program_operator_system/source/start/start4/../newlib/i686-elf/include -IF:/Cpp/program_operator_system/source/start/start4/source/loop/../applib -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/loop.dir/main.c.obj -c F:/Cpp/program_operator_system/source/start/start4/source/loop/main.c",
+  "file": "F:/Cpp/program_operator_system/source/start/start4/source/loop/main.c"
+}
+]

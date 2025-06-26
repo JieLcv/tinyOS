@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Cpp/program_operator_system/source/start/start4/source/boot/boot.h
+
+F:/Cpp/program_operator_system/source/start/start4/source/boot/start.S
+boot.h
+F:/Cpp/program_operator_system/source/start/start4/source/boot/boot.h
+
