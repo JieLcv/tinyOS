@@ -8,5 +8,6 @@
 4. 内存管理：为每个进程分配虚拟内存并将其映射到物理内存，实现进程隔离；  
 5. 文件系统：实现了磁盘，终端等设备的操作接口，并将其抽象为不同的文件系统  
 6. 系统调用: 为用户访问内核提供接口，实现了fork, execve, open, write, read, dup, dup2等一系列 接口；
+image中存放磁盘映像文件
 
 具体实现流程请参考 [tinyOS](https://blog.csdn.net/m0_46168092/article/details/146485149?sharetype=blogdetail&sharerId=146485149&sharerefer=PC&sharesource=m0_46168092&sharefrom=mp_from_link)
